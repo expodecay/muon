@@ -5,5 +5,5 @@ By capturing atmospheric muons through a crystal scintillator and analyzing the 
 
 The complete document can be viewed under MuonExperiment.pdf
 
-![fpgaReading](decay.png)
+![fpgaReading](decay.BMP)
 ![frequencyPlot](Freq_plot.png)
